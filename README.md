@@ -1,6 +1,7 @@
 # Sonido estéreo y ficheros WAVE
 
 ## Nom i cognoms
+  ### Milene Granda
 
 ## El formato WAVE
 
